@@ -29,3 +29,15 @@ Listing of tools I found useful or interesting.
 
 ### Examples
 - https://github.com/aws-samples/aws-security-services-with-terraform Code examples for the AWS Security Blog post: How to use CI/CD to deploy and configure AWS security services with Terraform.
+
+## AWS
+
+### IAM Policy
+- https://github.com/salesforce/policy_sentry IAM Least Privilege Policy Generator (https://policy-sentry.readthedocs.io/).
+- https://github.com/duo-labs/parliament AWS IAM linting library.
+- https://github.com/SummitRoute/aws_managed_policies Collection of the AWS Managed IAM policies.
+
+### Federation
+- https://github.com/Versent/saml2aws CLI tool which enables you to login and retrieve AWS temporary credentials using a SAML IDP.
+- https://github.com/cevoaustralia/aws-google-auth Provides AWS STS credentials based on Google Apps SAML SSO auth.
+- https://github.com/segmentio/aws-okta aws-vault like tool for Okta authentication.
