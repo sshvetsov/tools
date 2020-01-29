@@ -30,6 +30,7 @@ Listing of tools I found useful or interesting.
 - https://github.com/iann0036/former2 Generate CloudFormation / Terraform / Troposphere templates from your existing AWS resources (https://former2.com).
 - https://github.com/dtan4/terraforming Export existing AWS resources to Terraform style (tf, tfstate) (http://terraforming.dtan4.net/).
 - https://github.com/GoogleCloudPlatform/terraformer CLI tool to generate terraform files from existing infrastructure (reverse Terraform).
+- https://github.com/jmcgill/formation Bulk import of resources into Terraform.
 
 ### Modules
 - https://github.com/nozaq/terraform-aws-secure-baseline Terraform module to set up your AWS account with the secure baseline configuration based on CIS Amazon Web Services Foundations.
