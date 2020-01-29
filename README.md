@@ -11,6 +11,11 @@ Listing of tools I found useful or interesting.
 - https://github.com/antonbabenko/pre-commit-terraform pre-commit git hooks to take care of Terraform configurations.
 - https://github.com/segmentio/terraform-docs Generate documentation from Terraform modules in various output formats.
 
+### Output
+- https://github.com/coinbase/terraform-landscape Improve Terraform's plan output to be easier to read and understand.
+- https://github.com/dmlittle/scenery A Terraform plan output prettifier.
+- https://github.com/chrislewisdev/prettyplan A formatting tool to help make large Terraform plans easier to review (https://prettyplan.chrislewisdev.com).
+
 ### Testing
 - https://github.com/cesar-rodriguez/terrascan Collection of security and best practice test for static code analysis of terraform templates.
 - https://github.com/liamg/tfsec Static analysis powered security scanner for your terraform code.
@@ -22,6 +27,9 @@ Listing of tools I found useful or interesting.
 
 ### Conversion
 - https://github.com/flosell/iam-policy-json-to-terraform Small tool to convert an IAM Policy in JSON format into a Terraform aws_iam_policy_document.
+- https://github.com/iann0036/former2 Generate CloudFormation / Terraform / Troposphere templates from your existing AWS resources (https://former2.com).
+- https://github.com/dtan4/terraforming Export existing AWS resources to Terraform style (tf, tfstate) (http://terraforming.dtan4.net/).
+- https://github.com/GoogleCloudPlatform/terraformer CLI tool to generate terraform files from existing infrastructure (reverse Terraform).
 
 ### Modules
 - https://github.com/nozaq/terraform-aws-secure-baseline Terraform module to set up your AWS account with the secure baseline configuration based on CIS Amazon Web Services Foundations.
