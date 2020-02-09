@@ -45,7 +45,8 @@ Listing of tools I found useful or interesting.
 ## AWS
 
 ### Security
-https://asecure.cloud/ A free repository of customizable AWS security configurations and best practices.
+- https://asecure.cloud/ A free repository of customizable AWS security configurations and best practices.
+- https://docs.aws.amazon.com/controltower/latest/userguide/guardrails-reference.html Reference for each of the guardrails available in AWS Control Tower.
 
 ### IAM Policy
 - https://github.com/salesforce/policy_sentry IAM Least Privilege Policy Generator (https://policy-sentry.readthedocs.io/).
