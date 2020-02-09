@@ -10,6 +10,7 @@ Listing of tools I found useful or interesting.
 ### Development
 - https://github.com/antonbabenko/pre-commit-terraform pre-commit git hooks to take care of Terraform configurations.
 - https://github.com/segmentio/terraform-docs Generate documentation from Terraform modules in various output formats.
+- https://github.com/tfutils/tfenv Terraform version manager inspired by rbenv
 
 ### Output
 - https://github.com/coinbase/terraform-landscape Improve Terraform's plan output to be easier to read and understand.
