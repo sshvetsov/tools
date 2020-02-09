@@ -39,11 +39,13 @@ Listing of tools I found useful or interesting.
 
 ### Examples
 - https://github.com/aws-samples/aws-security-services-with-terraform Code examples for the AWS Security Blog post: How to use CI/CD to deploy and configure AWS security services with Terraform.
+- https://github.com/ScaleSec/terraform_aws_scp AWS Organizations Service Control Policies (SCPs) written in HashiCorp Terraform.
+- https://asecure.cloud/ A free repository of customizable AWS security configurations and best practices.
 
 ## AWS
 
 ### Security
-https://asecure.cloud/ A free repository of customizable AWS security configurations and best practices
+https://asecure.cloud/ A free repository of customizable AWS security configurations and best practices.
 
 ### IAM Policy
 - https://github.com/salesforce/policy_sentry IAM Least Privilege Policy Generator (https://policy-sentry.readthedocs.io/).
