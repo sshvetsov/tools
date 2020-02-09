@@ -42,6 +42,9 @@ Listing of tools I found useful or interesting.
 
 ## AWS
 
+### Security
+https://asecure.cloud/ A free repository of customizable AWS security configurations and best practices
+
 ### IAM Policy
 - https://github.com/salesforce/policy_sentry IAM Least Privilege Policy Generator (https://policy-sentry.readthedocs.io/).
 - https://github.com/duo-labs/parliament AWS IAM linting library.
