@@ -47,6 +47,11 @@ Listing of tools I found useful or interesting.
 ### Security
 - https://asecure.cloud/ A free repository of customizable AWS security configurations and best practices.
 - https://docs.aws.amazon.com/controltower/latest/userguide/guardrails-reference.html Reference for each of the guardrails available in AWS Control Tower.
+- https://github.com/toniblyx/my-arsenal-of-aws-security-tools List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.
+- https://github.com/duo-labs/cloudmapper CloudMapper helps you analyze your Amazon Web Services (AWS) environments.
+- https://github.com/toniblyx/prowler AWS Security Best Practices Assessment, Auditing, Hardening and Forensics Readiness Tool.
+- https://github.com/airbnb/streamalert StreamAlert is a serverless, realtime data analysis framework which empowers you to ingest, analyze, and alert on data from any environment, using datasources and alerting logic you define (https://streamalert.io).
+- https://github.com/cloud-custodian/cloud-custodian Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources (https://cloudcustodian.io).
 
 ### IAM Policy
 - https://github.com/salesforce/policy_sentry IAM Least Privilege Policy Generator (https://policy-sentry.readthedocs.io/).
