@@ -33,6 +33,7 @@ Listing of tools I found useful or interesting.
 - https://github.com/GoogleCloudPlatform/terraformer CLI tool to generate terraform files from existing infrastructure (reverse Terraform).
 - https://github.com/jmcgill/formation Bulk import of resources into Terraform.
 - https://github.com/bridgecrewio/AirIAM Least privilege AWS IAM Terraformer.
+- https://github.com/cycloidio/terracognita/ Reads from existing Cloud Providers (reverse Terraform) and generates your infrastructure as code on Terraform configuration.
 
 ### Modules
 - https://github.com/nozaq/terraform-aws-secure-baseline Terraform module to set up your AWS account with the secure baseline configuration based on CIS Amazon Web Services Foundations.
