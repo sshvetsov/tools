@@ -54,6 +54,7 @@ Listing of tools I found useful or interesting.
 - https://github.com/toniblyx/prowler AWS Security Best Practices Assessment, Auditing, Hardening and Forensics Readiness Tool.
 - https://github.com/airbnb/streamalert StreamAlert is a serverless, realtime data analysis framework which empowers you to ingest, analyze, and alert on data from any environment, using datasources and alerting logic you define (https://streamalert.io).
 - https://github.com/cloud-custodian/cloud-custodian Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources (https://cloudcustodian.io).
+- https://github.com/flosell/trailscraper A command-line tool to get valuable information out of AWS CloudTrail.
 
 ### IAM Policy
 - https://github.com/salesforce/policy_sentry IAM Least Privilege Policy Generator (https://policy-sentry.readthedocs.io/).
