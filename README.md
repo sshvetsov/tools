@@ -56,6 +56,7 @@ Listing of tools I found useful or interesting.
 - https://github.com/cloud-custodian/cloud-custodian Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources (https://cloudcustodian.io).
 - https://github.com/flosell/trailscraper A command-line tool to get valuable information out of AWS CloudTrail.
 - https://github.com/jonrau1/ElectricEye Continuously monitor your AWS services for configurations that can lead to degradation of confidentiality, integrity or availability. All results will be sent to Security Hub for further aggregation and analysis.
+- https://github.com/FSecureLABS/awspx A graph-based tool for visualizing effective access and resource relationships in AWS environments.
 
 ### IAM Policy
 - https://github.com/salesforce/policy_sentry IAM Least Privilege Policy Generator (https://policy-sentry.readthedocs.io/).
