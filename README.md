@@ -59,6 +59,7 @@ Listing of tools I found useful or interesting.
 - https://github.com/FSecureLABS/awspx A graph-based tool for visualizing effective access and resource relationships in AWS environments.
 - https://github.com/salesforce/cloudsplaining Cloudsplaining is an AWS IAM Security Assessment tool that identifies violations of least privilege and generates a risk-prioritized HTML report with a triage worksheet (https://cloudsplaining.readthedocs.io/).
 - https://github.com/nccgroup/PMapper A tool for quickly evaluating IAM permissions in AWS (https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2018/june/principal-mapper-advanced-and-automated-aws-iam-evaluation/?style=Cyber+Security).
+- https://github.com/nccgroup/ScoutSuite Multi-Cloud Security Auditing Tool.
 
 ### IAM Policy
 - https://github.com/salesforce/policy_sentry IAM Least Privilege Policy Generator (https://policy-sentry.readthedocs.io/).
