@@ -57,6 +57,7 @@ Listing of tools I found useful or interesting.
 - https://github.com/flosell/trailscraper A command-line tool to get valuable information out of AWS CloudTrail.
 - https://github.com/jonrau1/ElectricEye Continuously monitor your AWS services for configurations that can lead to degradation of confidentiality, integrity or availability. All results will be sent to Security Hub for further aggregation and analysis.
 - https://github.com/FSecureLABS/awspx A graph-based tool for visualizing effective access and resource relationships in AWS environments.
+- https://github.com/salesforce/cloudsplaining Cloudsplaining is an AWS IAM Security Assessment tool that identifies violations of least privilege and generates a risk-prioritized HTML report with a triage worksheet (https://cloudsplaining.readthedocs.io/).
 
 ### IAM Policy
 - https://github.com/salesforce/policy_sentry IAM Least Privilege Policy Generator (https://policy-sentry.readthedocs.io/).
