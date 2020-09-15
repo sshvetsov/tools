@@ -16,6 +16,7 @@ Listing of tools I found useful or interesting.
 - https://github.com/coinbase/terraform-landscape Improve Terraform's plan output to be easier to read and understand.
 - https://github.com/dmlittle/scenery A Terraform plan output prettifier.
 - https://github.com/chrislewisdev/prettyplan A formatting tool to help make large Terraform plans easier to review (https://prettyplan.chrislewisdev.com).
+- https://github.com/infracost/infracost Infracost shows hourly and monthly cost estimates for a Terraform project.
 
 ### Testing
 - https://github.com/cesar-rodriguez/terrascan Collection of security and best practice test for static code analysis of terraform templates.
