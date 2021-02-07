@@ -67,6 +67,7 @@ Listing of tools I found useful or interesting.
 - https://github.com/salesforce/policy_sentry IAM Least Privilege Policy Generator (https://policy-sentry.readthedocs.io/).
 - https://github.com/duo-labs/parliament AWS IAM linting library.
 - https://github.com/SummitRoute/aws_managed_policies Collection of the AWS Managed IAM policies.
+- https://github.com/iann0036/iamlive Generate a basic IAM policy from AWS client-side monitoring (CSM).
 
 ### Federation
 - https://github.com/Versent/saml2aws CLI tool which enables you to login and retrieve AWS temporary credentials using a SAML IDP.
