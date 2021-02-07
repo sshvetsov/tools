@@ -74,6 +74,7 @@ Listing of tools I found useful or interesting.
 - https://github.com/Versent/saml2aws CLI tool which enables you to login and retrieve AWS temporary credentials using a SAML IDP.
 - https://github.com/cevoaustralia/aws-google-auth Provides AWS STS credentials based on Google Apps SAML SSO auth.
 - https://github.com/segmentio/aws-okta aws-vault like tool for Okta authentication.
+- https://github.com/ruimarinho/gsts Obtain and store AWS STS credentials to interact with Amazon services by authenticating via G Suite SAML.
 
 ### SSM
 - https://github.com/disneystreaming/ssm-helpers Help manage AWS systems manager with helpers.
