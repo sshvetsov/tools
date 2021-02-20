@@ -76,5 +76,12 @@ Listing of tools I found useful or interesting.
 - https://github.com/segmentio/aws-okta aws-vault like tool for Okta authentication.
 - https://github.com/ruimarinho/gsts Obtain and store AWS STS credentials to interact with Amazon services by authenticating via G Suite SAML.
 
+### Using credentials
+- https://github.com/99designs/aws-vault A vault for securely storing and accessing AWS credentials in development environments.
+- https://github.com/benkehoe/aws-export-credentials Get AWS credentials from a profile to inject into other programs.
+- https://github.com/trek10inc/awsume A utility for easily assuming AWS IAM roles from the command line.
+- https://github.com/meltwater/awsudo A simple utility for executing cli commands with an assumed role.
+- https://github.com/makethunder/awsudo sudo-like utility to manage AWS credentials.
+
 ### SSM
 - https://github.com/disneystreaming/ssm-helpers Help manage AWS systems manager with helpers.
