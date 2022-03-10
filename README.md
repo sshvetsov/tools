@@ -69,6 +69,7 @@ Listing of tools I found useful or interesting.
 - https://github.com/duo-labs/parliament AWS IAM linting library.
 - https://github.com/SummitRoute/aws_managed_policies Collection of the AWS Managed IAM policies.
 - https://github.com/iann0036/iamlive Generate a basic IAM policy from AWS client-side monitoring (CSM).
+- https://aws.permissions.cloud/ The aws.permissions.cloud website uses a variety of information gathered within the IAM Dataset and exposes that information in a clean, easy-to-read format.
 
 ### Federation
 - https://github.com/Versent/saml2aws CLI tool which enables you to login and retrieve AWS temporary credentials using a SAML IDP.
