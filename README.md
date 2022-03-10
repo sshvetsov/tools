@@ -84,5 +84,9 @@ Listing of tools I found useful or interesting.
 - https://github.com/meltwater/awsudo A simple utility for executing cli commands with an assumed role.
 - https://github.com/makethunder/awsudo sudo-like utility to manage AWS credentials.
 
+### Inventory
+- https://github.com/cloudquery/cloudquery The open-source cloud asset inventory powered by SQL.
+- https://github.com/turbot/steampipe Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.
+
 ### SSM
 - https://github.com/disneystreaming/ssm-helpers Help manage AWS systems manager with helpers.
