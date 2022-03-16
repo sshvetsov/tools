@@ -75,6 +75,9 @@ Listing of tools I found useful or interesting.
 - https://aws.permissions.cloud/ The aws.permissions.cloud website uses a variety of information gathered within the IAM Dataset and exposes that information in a clean, easy-to-read format.
 - https://docs.aws.amazon.com/service-authorization/latest/reference/reference.html The Service Authorization Reference provides a list of the actions, resources, and condition keys that are supported by each AWS service. You can specify actions, resources, and condition keys in AWS Identity and Access Management (IAM) policies to manage access to AWS resources.
 
+### SSO
+- https://github.com/benkehoe/aws-sso-util Smooth out the rough edges of AWS SSO (temporarily, until AWS makes it better).
+
 ### Federation
 - https://github.com/Versent/saml2aws CLI tool which enables you to login and retrieve AWS temporary credentials using a SAML IDP.
 - https://github.com/cevoaustralia/aws-google-auth Provides AWS STS credentials based on Google Apps SAML SSO auth.
