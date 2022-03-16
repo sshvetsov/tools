@@ -49,6 +49,9 @@ Listing of tools I found useful or interesting.
 
 ## AWS
 
+### Guides
+- https://aws.amazon.com/prescriptive-guidance/ Resources from AWS technology experts and AWS Partners to help accelerate cloud adoption and modernization.
+
 ### Security
 - https://asecure.cloud/ A free repository of customizable AWS security configurations and best practices.
 - https://docs.aws.amazon.com/controltower/latest/userguide/guardrails-reference.html Reference for each of the guardrails available in AWS Control Tower.
