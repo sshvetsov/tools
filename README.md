@@ -77,6 +77,7 @@ Listing of tools I found useful or interesting.
 
 ### SSO
 - https://github.com/benkehoe/aws-sso-util Smooth out the rough edges of AWS SSO (temporarily, until AWS makes it better).
+- https://github.com/synfinatic/aws-sso-cli A powerful tool for using AWS SSO for the CLI and web console.
 
 ### Federation
 - https://github.com/Versent/saml2aws CLI tool which enables you to login and retrieve AWS temporary credentials using a SAML IDP.
