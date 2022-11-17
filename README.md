@@ -42,6 +42,10 @@ Listing of tools I found useful or interesting.
 - https://github.com/nozaq/terraform-aws-secure-baseline Terraform module to set up your AWS account with the secure baseline configuration based on CIS Amazon Web Services Foundations.
 - https://github.com/apparentlymart/terraform-aws-tf-registry Terraform module for creating a simple private Terraform registry in AWS with DynamoDB.
 
+### Orchestration
+- https://github.com/mineiros-io/terramate Terramate is a tool for managing multiple Terraform stacks with support for change detection and code generation.
+- https://github.com/boltops-tools/terraspace Terraspace: The Terraform Framework (https://terraspace.cloud).
+
 ### Examples
 - https://github.com/aws-samples/aws-security-services-with-terraform Code examples for the AWS Security Blog post: How to use CI/CD to deploy and configure AWS security services with Terraform.
 - https://github.com/ScaleSec/terraform_aws_scp AWS Organizations Service Control Policies (SCPs) written in HashiCorp Terraform.
