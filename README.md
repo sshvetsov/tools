@@ -29,7 +29,7 @@ Listing of tools I found useful or interesting.
 - https://github.com/eerkunt/terraform-compliance a lightweight, security focused, BDD test framework against terraform (https://terraform-compliance.com).
 
 ### Conversion
-- https://github.com/flosell/iam-policy-json-to-terraform Small tool to convert an IAM Policy in JSON format into a Terraform aws_iam_policy_document.
+- https://github.com/flosell/iam-policy-json-to-terraform Small tool to convert an IAM Policy in JSON format into a Terraform aws_iam_policy_document (https://flosell.github.io/iam-policy-json-to-ter).
 - https://github.com/iann0036/former2 Generate CloudFormation / Terraform / Troposphere templates from your existing AWS resources (https://former2.com).
 - https://github.com/dtan4/terraforming Export existing AWS resources to Terraform style (tf, tfstate) (http://terraforming.dtan4.net/).
 - https://github.com/GoogleCloudPlatform/terraformer CLI tool to generate terraform files from existing infrastructure (reverse Terraform).
