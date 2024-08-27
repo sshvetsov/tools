@@ -77,6 +77,7 @@ Listing of tools I found useful or interesting.
 - https://github.com/SummitRoute/aws_managed_policies Collection of the AWS Managed IAM policies.
 - https://github.com/iann0036/iamlive Generate a basic IAM policy from AWS client-side monitoring (CSM).
 - https://aws.permissions.cloud/ The aws.permissions.cloud website uses a variety of information gathered within the IAM Dataset and exposes that information in a clean, easy-to-read format.
+- https://www.awsiamactions.io/ AWS IAM Actions and Policy Generator
 - https://docs.aws.amazon.com/service-authorization/latest/reference/reference.html The Service Authorization Reference provides a list of the actions, resources, and condition keys that are supported by each AWS service. You can specify actions, resources, and condition keys in AWS Identity and Access Management (IAM) policies to manage access to AWS resources.
 
 ### SSO
